@@ -17,7 +17,7 @@ O LiterAlura é uma aplicação web que permite aos usuários buscar e visualiza
 
 #### 1.3. Configuração do Banco na Aplicação
 1. Em `application.properties`, atualize os seguintes campos quando você configurou, ao instalar seu PostgreSQL:
-   <img src="XXXX" width="500">
+   <img src="https://github.com/adrianoazevedo/liter-alura/blob/main/assets/config-banco-dadosc.png" width="500">
 
 #### 1.4. Configuração Extra
 - Para visualizar no console as queries, descomente as seguintes linhas em `application.properties`:
